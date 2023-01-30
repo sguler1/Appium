@@ -40,7 +40,7 @@ public class Appium05 {
       MobileElement minus = driver.findElementByAccessibilityId("minus");
       MobileElement equals = driver.findElementByAccessibilityId("equals");
 
-      // 64  + 71
+      //  64 + 71
       num6.click();
       num4.click();
       plus.click();
